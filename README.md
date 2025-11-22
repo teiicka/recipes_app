@@ -1,16 +1,12 @@
-# lab2_mis
+Flutter App for Recipes
 
-A new Flutter project.
+<img width="922" height="934" alt="image" src="https://github.com/user-attachments/assets/256c8dcb-b025-41da-be60-1f6bbe2dcca6" />
 
-## Getting Started
+<img width="922" height="935" alt="image" src="https://github.com/user-attachments/assets/b607c7cc-ce1b-4174-9e8e-d4a4c9823c06" />
 
-This project is a starting point for a Flutter application.
+<img width="921" height="355" alt="image" src="https://github.com/user-attachments/assets/f5f11003-1ee1-4f91-98a5-ae9cb66646c9" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="913" height="596" alt="image" src="https://github.com/user-attachments/assets/801877ba-3785-4fd0-af42-97366e4a44c6" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
